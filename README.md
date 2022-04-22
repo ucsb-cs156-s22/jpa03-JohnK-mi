@@ -1,5 +1,6 @@
 # demo-spring-react-example-v2: dsre-v2
 
+* Repo: https://github.com/ucsb-cs156-s22/jpa03-JohnK-mi/
 Storybook is here:
 * Production: <https://ucsb-cs156-s22.github.io/jpa03-JohnK-mi-docs/>
 * QA:  <https://ucsb-cs156-s22.github.io/jpa03-JohnK-mi-docs-qa/>
